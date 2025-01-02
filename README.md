@@ -10,6 +10,11 @@ A Python-based real-time noise cancellation system that supports both single-spe
 - WAV file output of processed audio
 - Comprehensive test suite
 
+## Real-Time Noise Cancellation Visualization
+![Screenshot (892)](https://github.com/user-attachments/assets/bb46730c-f3e1-479e-bbcc-c666b1f91217)
+![Screenshot (896)](https://github.com/user-attachments/assets/ca93ef23-dc7b-4069-91f4-30bbbee1ca67)
+
+
 ## Installation
 ```bash
 pip install -r requirements.txt
